@@ -1,0 +1,54 @@
+body {
+    position: absolute;
+}
+
+.title {
+    position: fixed;
+    top:10%;
+    left:40%;
+}
+
+.search {
+    position: fixed;
+    top:20%;
+    left:25%;
+}
+
+.search button {
+    color:blue;
+}
+
+.question1 {
+    position: fixed;
+    top:30%;
+    left:30%;
+}
+
+.faded {
+    padding-left: 280px;
+
+}
+
+.faded a {
+    color:blue;
+}
+
+.faded a:hover {
+    font-weight: bold;
+}
+
+.news {
+    position: relative;
+}
+
+.question2 {
+    position: fixed;
+    top:30%;
+    left:22%;
+}
+
+.question3 {
+    position: fixed;
+    top:30%;
+    left:15%;
+}
